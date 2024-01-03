@@ -21,7 +21,7 @@ https://documenter.getpostman.com/view/31223637/2s9YsFDtUk
 npm install
 ```
 
-3. se debera crear una base de datos, puede crearla de manera local o utilizar https://neon.tech
+3. se debera crear una base de datos, puede crearla de manera local o utilizar https://neon.tech o https://www.elephantsql.com/
 
 4. clonar el archivo `.env.template` y renombrarlo a `.env` y agregar los valores de las variables de entorno.
 
